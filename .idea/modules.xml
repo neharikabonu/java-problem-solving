@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/NumberProblems/ArmstrongNumbers/ArmstrongNumbers.iml" filepath="$PROJECT_DIR$/NumberProblems/ArmstrongNumbers/ArmstrongNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/NumberProblems/DigitExtraction/DigitExtraction.iml" filepath="$PROJECT_DIR$/NumberProblems/DigitExtraction/DigitExtraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/NumberProblems/NumberProblems.iml" filepath="$PROJECT_DIR$/NumberProblems/NumberProblems.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-problem-solving.iml" filepath="$PROJECT_DIR$/.idea/java-problem-solving.iml" />
