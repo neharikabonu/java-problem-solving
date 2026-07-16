@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/NumberProblems/ArmstrongNumbers/ArmstrongNumbers.iml" filepath="$PROJECT_DIR$/NumberProblems/ArmstrongNumbers/ArmstrongNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/NumberProblems/DigitExtraction/DigitExtraction.iml" filepath="$PROJECT_DIR$/NumberProblems/DigitExtraction/DigitExtraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/NumberProblems/NumberProblems.iml" filepath="$PROJECT_DIR$/NumberProblems/NumberProblems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberProblems/PrimeNumbers/PrimeNumbers.iml" filepath="$PROJECT_DIR$/NumberProblems/PrimeNumbers/PrimeNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-problem-solving.iml" filepath="$PROJECT_DIR$/.idea/java-problem-solving.iml" />
     </modules>
   </component>
