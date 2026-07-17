@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/NumberProblems/ArmstrongNumbers/ArmstrongNumbers.iml" filepath="$PROJECT_DIR$/NumberProblems/ArmstrongNumbers/ArmstrongNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/Character Patterns/Character Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Character Patterns/Character Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/NumberProblems/DigitExtraction/DigitExtraction.iml" filepath="$PROJECT_DIR$/NumberProblems/DigitExtraction/DigitExtraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/NumberProblems/FactorDivisorProblems/FactorDivisorProblems.iml" filepath="$PROJECT_DIR$/NumberProblems/FactorDivisorProblems/FactorDivisorProblems.iml" />
       <module fileurl="file://$PROJECT_DIR$/Patterns/Number Patterns/Number Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Number Patterns/Number Patterns.iml" />
